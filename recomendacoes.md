@@ -4,7 +4,7 @@ Com base na auditoria interna realizada, seguem as recomendações prioritárias
 
 ---
 
-# 🚨 1. Prioridade Crítica (implementar imediatamente)
+# 1. Prioridade Crítica (implementar imediatamente)
 
 ## 🔴 1.1 Implementar criptografia para dados sensíveis
 - Criptografar dados de cartão de crédito (PCI DSS).
